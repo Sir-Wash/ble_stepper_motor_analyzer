@@ -3,12 +3,13 @@
 > **_NOTE:_** As for June 24th 2023, added under the spec table a discussion regarding the **max stepper voltage** that can be used.
 
 ------
-
 <p align="center">
   <br>
   The analyzer device of the reference design here<br>
-  <img src="./www/device_overall.jpg" style="width: 350px;" />
+  <img src="./www/redesign.png" style="width: 350px;" />
 </p>
+
+My redsigned design can be found in "\ble_stepper_motor_analyzer\kicad\JLCPCB\Sir_Wash_Redesign"
 
 <p align="center">
   The analyzer's app<br>
