@@ -9,6 +9,8 @@
   <img src="./www/redesign.png" style="width: 350px;" />
 </p>
 
+My redsigned design can be found in "\ble_stepper_motor_analyzer\kicad\JLCPCB\Sir_Wash_Redesign"
+
 <p align="center">
   The analyzer's app<br>
   <img src="./www/app_screenshot.jpg"  />
