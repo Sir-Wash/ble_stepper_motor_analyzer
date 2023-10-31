@@ -3,11 +3,10 @@
 > **_NOTE:_** As for June 24th 2023, added under the spec table a discussion regarding the **max stepper voltage** that can be used.
 
 ------
-
 <p align="center">
   <br>
   The analyzer device of the reference design here<br>
-  <img src="./www/device_overall.jpg" style="width: 350px;" />
+  <img src="./www/redesign.png" style="width: 350px;" />
 </p>
 
 <p align="center">
