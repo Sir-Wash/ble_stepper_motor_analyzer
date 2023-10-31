@@ -1,7 +1,5 @@
 # BLE STEPPER MOTOR ANALYZER
 
-> **_NOTE:_** As for June 2023, a **productized version of a BLE Stepper Motor analyzer is available*** at https://vector3d.co.uk/product/stepper-motor-analyser/ and is firmware and software compatible with the reference design here. While we are not involved with that commercial offering, we do support such initiatives of making the technology available to the community, and will be happy to provide here technical support as much as we can.
-
 > **_NOTE:_** As for June 24th 2023, added under the spec table a discussion regarding the **max stepper voltage** that can be used.
 
 ------
